@@ -19,6 +19,7 @@ Visuals – includes bar charts, pie charts, cards, maps, and slicers.
 
 
 Screenshot of Dashboard
-Show what the dashboard looks like - https://github.com/priyasaloni468-hub/Blinkit-Sales-Dashboard/blob/main/SS%20.png
+Show what the dashboard looks like - <img width="1347" height="780" alt="SS " src="https://github.com/user-attachments/assets/76abc21e-1104-4047-a26c-53e957365831" />
+
 
 
