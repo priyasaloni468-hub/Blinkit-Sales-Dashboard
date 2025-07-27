@@ -1,6 +1,9 @@
 # Blinkit-Sales-Dashboard
+
+Short Description:
 The Blinkit Dashboard is an interactive Power BI report designed to monitor and analyze key performance metrics for an online grocery delivery platform. 
 It visualizes data on orders, delivery performance, customer behavior, and sales trends to support real-time business decisions and operational improvements.
+
 
 🛠️ Tech Stack:
 Power BI – for creating and publishing the dashboard.
@@ -16,7 +19,6 @@ Visuals – includes bar charts, pie charts, cards, maps, and slicers.
 
 
 Screenshot of Dashboard
-
 Show what the dashboard looks like - https://github.com/priyasaloni468-hub/Blinkit-Sales-Dashboard/blob/main/SS%20.png
 
 
