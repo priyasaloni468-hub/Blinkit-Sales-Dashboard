@@ -13,3 +13,9 @@ Data Sources – typically connected to Excel, CSV, or databases (e.g., SQL Serv
 
 Visuals – includes bar charts, pie charts, cards, maps, and slicers.
 
+
+Screenshot of Dashboard
+
+Show what the dashboard looks like - https://github.com/priyasaloni468-hub/Blinkit-Sales-Dashboard/blob/main/SS%20.png
+
+
